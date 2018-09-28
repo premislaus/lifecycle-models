@@ -3,6 +3,13 @@ Software Development Lifecycle Models is a term used in systems engineering, inf
 
 ## Classics
 
+
+| Strengths        | Weaknesses                   |
+| ---------------- | ---------------------------- |
+| John Doe         | johndoe@email.com            |
+| Jane Doe         | janedoe@email.com            |
+
+
 ## Incremental
 
 ## Evolutionary
