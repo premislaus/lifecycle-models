@@ -4,11 +4,30 @@ Software Development Lifecycle Models is a term used in systems engineering, inf
 ## Classics
 In the classical life cycle model (also known as the waterfall model), the development of software proceeds linearly and sequentially from requirement analysis to design, coding, testing, integration, implementation, and maintenance. Thus, this model is also known as the linear sequential model.
 
-| Strengths        | Weaknesses                   |
-| ---------------- | ---------------------------- |
-| John Doe         | johndoe@email.com            |
-| Jane Doe         | janedoe@email.com            |
+| Advantages                                                                                                                  
+| -------------------------------------------------------------------------------------------------------------------------- |
+| This model is simple and easy to understand and use.                                                                       |
+| It is easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.             In this model phases are processed and completed one at a time. Phases do not overlap.                                     | 
+| Waterfall model works well for smaller projects where requirements are very well understood.                               |
 
+
+| Disadvantages                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Once an application is in the testing stage, it is very difficult to go back and change something that was not well-thought out in the concept stage.                                                                                         |
+| No working software is produced until late during the life cycle.                                                            | High amounts of risk and uncertainty.
+| Not a good model for complex and object-oriented projects.
+| Poor model for long and ongoing projects.
+| Not suitable for the projects where requirements are at a moderate to high risk of changing.               |
+
+####
+When to use the waterfall model:
+
+1.  This model is used only when the requirements are very well known, clear and fixed.
+1.  Product definition is stable.
+1.  Technology is understood.
+1.  There are no ambiguous requirements
+1.  Ample resources with required expertise are available freely
+1.  The project is short.
 
 ## Incremental
 
