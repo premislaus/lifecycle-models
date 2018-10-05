@@ -19,8 +19,7 @@ In the classical life cycle model (also known as the waterfall model), the devel
 | Poor model for long and ongoing projects.
 | Not suitable for the projects where requirements are at a moderate to high risk of changing.               |
 
-######
-When to use the waterfall model:
+###### When to use the waterfall model:
 
 1.  This model is used only when the requirements are very well known, clear and fixed.
 1.  Product definition is stable.
