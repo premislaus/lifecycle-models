@@ -34,7 +34,7 @@ Lorem ipsum
 
 
 ## Spiral
-![Alt text](/Spiral/diagram.png)
+![Alt text](/Spiral/spiral.png)
 
 #### History
 This model was first described by Barry Boehm in his 1986 paper "A Spiral Model of Software Development and Enhancement". In 1988 Boehm published a similar paper to a wider audience. These papers introduce a diagram that has been reproduced in many subsequent publications discussing the spiral model.
